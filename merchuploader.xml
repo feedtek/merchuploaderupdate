@@ -1,6 +1,6 @@
 
 <?xml version="1.0"?> 
-<MerchUploader>
+<sharpUpdate>
   <update appID="Merch Uploader">
     <version>2.1.0.0</version>
     <url>https://github.com/feedtek/merchuploaderupdate/raw/master/Merch%20Uploader.exe</url>
@@ -12,4 +12,4 @@
     </description>
     <date>Wednesday, October 16, 2019</date>
   </update>
-</MerchUploader>
+</sharpUpdate>
