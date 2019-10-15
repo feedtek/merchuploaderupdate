@@ -1,7 +1,9 @@
+
+<?xml version="1.0"?> 
 <MerchUploader>
   <update appID="Merch Uploader">
     <version>2.1.0.0</version>
-    <url>https://github.com/feedtek/merchuploaderupdate/blob/master/merchuploader.exe</url>
+    <url>https://github.com/feedtek/merchuploaderupdate/raw/master/Merch%20Uploader.exe</url>
     <fileName>Merch Uploader.exe</fileName>
     <md5>DEE973FB14D5E8EA5C6D6BDB82375F16</md5>
     <launchArgs>
