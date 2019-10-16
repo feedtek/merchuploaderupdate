@@ -11,22 +11,6 @@
     </description>
     <date>Wednesday, October 16, 2019</date>
    </update>
-  
-   <add> 
-        <version>1.0.0.0</version> 
-        <url></url> 
-        <filePath></filePath>
-        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
-        <description>Add: 10/06/2018:
-        </description> 
-        <launchArgs></launchArgs> 
-    </add>
-    <remove>
-        <filePath></filePath>
-        <description>Remove: 10/06/2018:
-        1. Test remove.</description> 
-        <launchArgs></launchArgs> 
-    </remove>
 	
 	
 </MerchUploader>
