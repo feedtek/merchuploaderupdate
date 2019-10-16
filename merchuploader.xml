@@ -3,7 +3,7 @@
   <update appID="Merch Uploader">
     <version>2.1.0.0</version>
     <url>https://github.com/feedtek/merchuploaderupdate/raw/master/Merch%20Uploader.exe</url>
-    <filePath>Merch Uploader.exe</filePath>
+    <filePath>./Merch Uploader.exe</filePath>
     <md5>DEE973FB14D5E8EA5C6D6BDB82375F16</md5>
     <launchArgs>
     </launchArgs>
