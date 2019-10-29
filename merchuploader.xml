@@ -1,13 +1,49 @@
 <MerchUploader>
   <update appID="Merch Uploader">
-    <version>2.3.0.0</version>
+    <version>2.3.1.0</version>
     <url>https://github.com/feedtek/merchuploaderupdate/raw/master/Merch Uploader.exe</url>
     <filePath>./Merch Uploader.exe</filePath>
-    <md5>0D36641F6B0E38E4D2BF274AAB427585</md5>
+    <md5>DF2230F67A554875BFB70BED28765B63</md5>
     <launchArgs>
     </launchArgs>
     <description>
     </description>
-    <date>Monday, October 28, 2019</date>
+    <date>Tuesday, October 29, 2019</date>
+  </update>
+  <update appID="merchuploader">
+    <version>
+    </version>
+    <url>https://github.com/feedtek/merchuploaderupdate/raw/master/merchuploader.xml</url>
+    <filePath>./merchuploader.xml</filePath>
+    <md5>5F0DBED90AA3594F18EA07839856FF8E</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>
+    </description>
+    <date>Tuesday, October 29, 2019</date>
+  </update>
+  <update appID="project">
+    <version>
+    </version>
+    <url>https://github.com/feedtek/merchuploaderupdate/raw/master/project.xml</url>
+    <filePath>./project.xml</filePath>
+    <md5>0259B3A354757EE720A99569AE6EE353</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>
+    </description>
+    <date>Tuesday, October 29, 2019</date>
+  </update>
+  <update appID="goodmerch">
+    <version>
+    </version>
+    <url>https://github.com/feedtek/merchuploaderupdate/raw/master/extension/goodmerch.crx</url>
+    <filePath>./extension/goodmerch.crx</filePath>
+    <md5>F2D67F27AB2C31F2AF118EFBFCAAEA3B</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>
+    </description>
+    <date>Tuesday, October 29, 2019</date>
   </update>
 </MerchUploader>
